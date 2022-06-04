@@ -1,3 +1,5 @@
+
+   
 .nav-link:hover {
   background-color: #17a2b8 !important;
   color: white !important;
@@ -25,11 +27,11 @@
 
 .dropdown-item:hover {
   color: white !important;
-  background-color: #17a2b8 !important;
+  background-color: #04525e !important;
 }
 
 .viz-box:hover {
-  border-color: #17a2b8;
+  border-color: #179474;
 }
 
 .img-center {
@@ -48,7 +50,7 @@
 
 @media (max-width: 768px) {
   .navbar-light.bg-white {
-      background-color: #17a2b8 !important;
+      background-color: #0b377f !important;
   }
   .nav-link {
       color: white !important;
